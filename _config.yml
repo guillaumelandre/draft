@@ -62,12 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    
-      
-      
-    
-      
-  - label: "Facebook"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/infinifemmes"
     - label: "Instagram"
