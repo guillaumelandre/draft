@@ -8,7 +8,9 @@ header:
   actions:
     - label: "Contactez-nous"
       url: "mailto:hello@infinifemmes.com"
-excerpt: "Bacon ipsum dolosssssr sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Yoga Pré & PostNatal (à domicile & en visio)
+Massage bien-être - Massage maman bébé (à domicile)
+Coaching & Ateliers en parentalité (formée par le Dr De Gasquet)"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
