@@ -28,7 +28,7 @@ logo: "/assets/images/Photo-profil_facebook_infini-femmes_bis-3.png"
 locale: fr-FR
 
 # Build settings
-markdown: kramdown²²
+markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 repository: guillaumelandre/draft
 # Outputting
