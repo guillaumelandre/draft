@@ -66,16 +66,6 @@ author:
   avatar : "/assets/images/bio-picture.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/infinifemmes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/infinifemmes"
-
-
-footer:
-  links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/infinifemmes"
@@ -87,6 +77,16 @@ footer:
       url: "mailto:hello@infinifemmes.com"
     - label: "Meudon, 92"
       icon: "fas fa-fw fa-map-marquer-alt"
+
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/infinifemmes"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/infinifemmes"
 
 defaults:
   # _posts
