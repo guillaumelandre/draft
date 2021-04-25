@@ -24,6 +24,7 @@ twitter_username: username
 github_username: guillaumelandre
 minimal_mistakes_skin: default
 search: true
+locale: "fr"
 logo: "/assets/images/Photo-profil_facebook_infini-femmes_bis-3.png"
 
 # Build settings
