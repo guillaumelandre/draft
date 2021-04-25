@@ -72,6 +72,8 @@ feature_row4:
 
 {% include feature_row id="feature_row5" %}
 
+{% include figure image_path="/assets/images/pic09.jpg" alt="Ocean" %}
+
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
