@@ -76,12 +76,17 @@ author:
 
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/infinifemmes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/infinifemmes"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/infinifemmes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hello@infinifemmes.com"
+    - label: "Meudon, 92"
+      icon: "fas fa-fw fa-map-marquer-alt"
 
 defaults:
   # _posts
