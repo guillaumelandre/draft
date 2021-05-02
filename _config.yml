@@ -17,9 +17,7 @@ title: Infini Femmes
 #subtitle: Version 1.0
 email: hello@infinifemmes.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cours particuliers de Yoga
 #url:
 twitter_username: volatianalandre
 github_username: guillaumelandre
@@ -65,7 +63,7 @@ plugins:
 author:
   name   : "Volatiana Landre"
   avatar : "/assets/images/bio-picture.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : ""
   location : "Meudon, 92"
   links:
     - label: "Instagram"
