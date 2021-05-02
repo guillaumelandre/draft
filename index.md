@@ -1,71 +1,40 @@
 ---
-title: "Home Page"
+title: "Infini Femmes"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/splash2.jpg
   actions:
-    - label: "Contactez-nous"
+    - label: "Contactez-moi"
       url: "mailto:hello@infinifemmes.com"
-excerpt: "Yoga Pré & PostNatal (à domicile & en visio)  
-Massage bien-être - Massage maman bébé (à domicile)  
-Coaching & Ateliers en parentalité (formée par le Dr De Gasquet)"
+excerpt: "Parce qu'il existe une Infinie manière d'être Femme ou d'être Mère,
+je vous accompagne à chaque étape de votre vie."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Cours de Yoga particuliers à domicile & en visio<br>
+  Méthode de Gasquet®<br>
+  Accompagnement Pré & Post Natal - Gestion de la douleur<br>
+  Massage - Formations'
 feature_row:
   - image_path: assets/images/pic02.jpg
     alt: "Se retrouver"
     title: "Se retrouver"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/pic04.jpg
     alt: "Proximité"
     title: "Proximité"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/pic06.jpg
     alt: "S'enraciner"
     title: "S'enraciner"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row5:
       - image_path: assets/images/pic03.jpg
         alt: "Approche De Gasquet"
         title: "Approche De Gasquet"
-        excerpt: "This is some sample content that goes here with **Markdown** formatting."
       - image_path: /assets/images/pic05.jpg
         alt: "Auto-grandissement"
         title: "Auto-grandissement"
-        excerpt: "This is some sample content that goes here with **Markdown** formatting."
-        url: "#test-link"
-        btn_label: "Read More"
-        btn_class: "btn--primary"
       - image_path: /assets/images/pic07.jpg
         alt: "Trikonasana"
         title: "Trikonasana"
-        excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -75,9 +44,3 @@ feature_row4:
 {% include feature_row id="feature_row5" %}
 
 {% include figure image_path="/assets/images/pic09.jpg" alt="Ocean" %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
