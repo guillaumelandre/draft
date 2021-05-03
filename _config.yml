@@ -18,7 +18,7 @@ title: Infini Femmes
 email: hello@infinifemmes.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cours particuliers de Yoga
-#url:
+url: https://www.infinifemmes.com
 twitter_username: volatianalandre
 github_username: guillaumelandre
 minimal_mistakes_skin: default
