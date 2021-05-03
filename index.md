@@ -1,5 +1,5 @@
 ---
-title: "Infini Femmes"
+title: "Accueil"
 layout: splash
 header:
   overlay_color: "#000"
