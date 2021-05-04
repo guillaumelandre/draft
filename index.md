@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue"
+title: "Infini Femmes"
 layout: splash
 header:
   overlay_color: "#000"
@@ -16,7 +16,7 @@ intro:
   Cours collectifs sur demande<br>
   Méthode de Gasquet®<br>
   Accompagnement Pré & Post Natal - Gestion de la douleur<br>
-  Formations & Ateliers bien-être'
+  Formations & Ateliers maman-bébé'
 feature_row:
   - image_path: /assets/images/pic07.jpg
     alt: "Trikonasana"
