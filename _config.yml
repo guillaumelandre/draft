@@ -122,5 +122,5 @@ social:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-88050318-1"
+    tracking_id: "G-J3HP8F9PZ0"
     anonymize_ip: true
