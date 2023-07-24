@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "Présentation"
+classes: wide
 ---
 
 {% include figure image_path="/assets/images/pic09.jpg" alt="Ocean" %}

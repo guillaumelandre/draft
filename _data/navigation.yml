@@ -1,5 +1,5 @@
 main:
-  - title: "Blog"
-    url: /blog/
+  - title: "Retraites"
+    url: /retreat/
   - title: "Présentation"
     url: /about/
